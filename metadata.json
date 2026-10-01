@@ -1,0 +1,6 @@
+{
+  "name": "Pure Sattva - Organic Store & Wood-Pressed Oils, Sirsa",
+  "description": "Pure Sattva in Sirsa, Haryana offers 100% traditional wood-pressed oils (Kachi Ghani), organic A2 cow ghee, raw honey, unrefined sugars, and chemical-free grocery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "PS-5082",
+    "createdAt": "2026-10-01T05:32:22.802Z",
+    "status": "Received",
+    "paymentMethod": "Cash on Delivery (COD)",
+    "paymentStatus": "Pending (Pay on Delivery)",
+    "customerName": "Rajat Test",
+    "customerPhone": "8059048843",
+    "customerEmail": "brajat707@gmail.com",
+    "deliveryAddress": "Barnala Road, Near City Centre, Sirsa - 125055",
+    "deliveryType": "Local Sirsa Express Delivery",
+    "city": "Sirsa",
+    "pincode": "125055",
+    "items": [
+      {
+        "productId": "yellow-mustard-oil",
+        "productName": "Wood-Pressed Yellow Mustard Oil",
+        "size": "1000 ml (1 Litre)",
+        "price": 360,
+        "mrp": 440,
+        "quantity": 1,
+        "category": "Wood-Pressed Oils"
+      }
+    ],
+    "subtotal": 360,
+    "deliveryFee": 30,
+    "totalAmount": 390,
+    "specialInstructions": "Call when ready for delivery",
+    "history": [
+      {
+        "status": "Received",
+        "time": "2026-10-01T05:32:22.802Z",
+        "note": "Order placed by customer via website (Cash on Delivery)."
+      }
+    ]
+  }
+]
